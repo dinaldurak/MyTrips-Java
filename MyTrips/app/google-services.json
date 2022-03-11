@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "592642217830",
+    "project_id": "mytripsnotes",
+    "storage_bucket": "mytripsnotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592642217830:android:685fb5ee40bfb06e3cdaa7",
+        "android_client_info": {
+          "package_name": "com.dinaldurak.mytrips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592642217830-p0vgqmivr83ikei1blmhv53fapaglqoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByE2rrZ1LiLwCoMcvqXM_RYTDMv0idurg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592642217830-p0vgqmivr83ikei1blmhv53fapaglqoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

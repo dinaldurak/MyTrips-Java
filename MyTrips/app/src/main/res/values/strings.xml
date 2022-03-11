@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyTrips</string>
+    <string name="btn_login">GİRİŞ YAP</string>
+    <string name="login">Giriş Yap</string>
+    <string name="password">Parola</string>
+    <string name="name_hint">Ad Soyad</string>
+    <string name="e_mail_hint">E-Posta Adresi</string>
+    <string name="phone_hint">Cep Telefonu</string>
+    <string name="signup">Kayıt ol</string>
+    <string name="dont_have_an_account">Hesabınız yok mu?</string>
+    <string name="have_an_account">Hesabınız var mı?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="hint_trip_name">Gezilen Yerin Adı</string>
+    <string name="hint_trip_city">Gidilen Şehir</string>
+    <string name="hint_trip_description">Gezi Açıklaması</string>
+    <string name="hint_trip_date">Gezi Tarihi</string>
+    <string name="hint_trip_notes">Gezi Notları</string>
+
+    <string name="btn_add">GEZİ EKLE</string>
+    <string name="upload_image">Fotoğraf Yükle</string>
+</resources>
